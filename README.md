@@ -4,12 +4,16 @@
 
 BulletMove
 	csvから拾った速度や拡散範囲を参照して弾を動かしている
+ 
 BulletPoolManager
 	弾のプール化
+ 
 BulletPoolInstance
 	弾のプール生成
+ 
 BulletPoolDestroy
 	弾をプールに戻す
+ 
 Crosshair
 	クロスヘア操作
 CursorManager
